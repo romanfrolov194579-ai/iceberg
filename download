@@ -1,9 +1,0 @@
-node_modules/
-.next/
-.open-next/
-.wrangler/
-.env
-.env.*
-!.env.example
-
-# Keep public assets and static image files in Git.
